@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](https://secure.travis-ci.org/brandnewera/clouda.png)](http://travis-ci.org/brandnewera/clouda)
 [![Dependency Status](https://gemnasium.com/brandnewera/clouda.png)](https://gemnasium.com/brandnewera/clouda)
 [![Coverage Status](https://coveralls.io/repos/brandnewera/clouda/badge.png)](https://coveralls.io/r/brandnewera/clouda)
@@ -82,3 +83,9 @@ Step2: [Your First App](https://github.com/brandnewera/sumeru/blob/master/docs/s
 Step3: [Overview](https://github.com/brandnewera/sumeru/blob/master/docs/step3_overview.md)
 	
 Step4: [API Documentation](https://github.com/brandnewera/sumeru/blob/master/docs/step4_API_Documentation.md)
+=======
+Clouda_RSS_Reader
+=================
+
+一个使用Clouda框架建立的RSS阅读器
+>>>>>>> 848230f5f0da834ef452f082657a4dff93fbfe97
