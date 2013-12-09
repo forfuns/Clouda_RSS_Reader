@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿
 [![Build Status](https://secure.travis-ci.org/brandnewera/clouda.png)](http://travis-ci.org/brandnewera/clouda)
 [![Dependency Status](https://gemnasium.com/brandnewera/clouda.png)](https://gemnasium.com/brandnewera/clouda)
 [![Coverage Status](https://coveralls.io/repos/brandnewera/clouda/badge.png)](https://coveralls.io/r/brandnewera/clouda)
@@ -88,4 +88,5 @@ Clouda_RSS_Reader
 =================
 
 一个使用Clouda框架建立的RSS阅读器
->>>>>>> 848230f5f0da834ef452f082657a4dff93fbfe97
+
+mongodb 文件夹下是mongo数据库，该文件上载不完成，不过可以直接无视，请自行更换一个mongodb的目录
